@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
             toastCenter.show();
         }
     }
-
+///
     public void fbt(View view) {
         if(bt6>0)
             return;
