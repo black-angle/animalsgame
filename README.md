@@ -1,3 +1,3 @@
 # animalsgame
 click animal or house
-easy
+ It's easy.
